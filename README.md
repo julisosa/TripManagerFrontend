@@ -1,6 +1,6 @@
 ## API Trip Manager Frontend
 
-Esta es una aplicación que simula el comportamiento de un gestor de viajes, permite visualizar una lista de viajes ya programados y generar un nuevo viaje 
+Esta es una aplicación que simula el comportamiento de un gestor de viajes, permite visualizar una lista de los que ya están programados y generar uno nuevo 
 seleccionando una ciudad de destino, una fecha de salida y tipo de vehículo a utilizar, la misma alertará al usuario sobre condiciones del clima desfavorables antes de guardar cambios para poder reprogramar el viaje.
 
 ## Capturas
